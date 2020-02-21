@@ -2,7 +2,7 @@ body{
 	background-color: #222222;
 	color: #666666;
 	font-family: verdana;
-	font-size: 10px;
+	font-size: 28px;
 }
 
 #woonkamer {
@@ -11,6 +11,7 @@ body{
 	height: 574px;
 	background-color: #333333;
 	overflow: hidden;
+	margin: 0 auto;
 }
 
 #gerrit	 {
